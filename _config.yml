@@ -1,4 +1,3 @@
-layout_spectrum: 0.8969334822613746
 typography_spectrum: 0.6593565251678228
 color:
   brandStrength: 0.2828005002811551
@@ -11,4 +10,11 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.8969334822613746
 name: tubloo
+navigation:
+  - name: Tubloo
+    url: 'http://www.tubloo.com'
+    type: external
+title: Hello World
+description: It's awesome or not?
