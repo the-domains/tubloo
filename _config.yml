@@ -1,0 +1,14 @@
+layout_spectrum: 0.8969334822613746
+typography_spectrum: 0.6593565251678228
+color:
+  brandStrength: 0.2828005002811551
+  lightness: 0.9056092675309628
+  saturation: 0.21042593545280397
+  rhythmicContrast: 0.09833104955032468
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: tubloo
