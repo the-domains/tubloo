@@ -6,9 +6,10 @@ color:
   saturation: 0.21042593545280397
   rhythmicContrast: 0.09833104955032468
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: tubloo
+title: Hello World
