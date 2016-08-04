@@ -1,16 +1,16 @@
-typography_spectrum: 0.19701580656692386
+typography_spectrum: 0.4323616735637188
 color:
-  brandStrength: 0.16766060376539826
-  lightness: 0.7533346354030073
-  saturation: 0.521398760844022
-  rhythmicContrast: 0.9198348065838218
+  brandStrength: 0.4835825327318162
+  lightness: 0.0941641537938267
+  saturation: 0.8736725968774408
+  rhythmicContrast: 0.34080940298736095
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
-layout_spectrum: 0.5285187016706914
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+layout_spectrum: 0.26413850556127727
 name: tubloo
 navigation:
   - name: Tubloo
